@@ -1,5 +1,5 @@
-# Very simple JS project with unit tests
-Just a basic project structure for future reference. 
+# Dec 2015 Code Retreat at Expedia!
+Code from a day of practicing TDD, pairing, and fun programming teamwork.
 
 Uses:
 * JavaScript
