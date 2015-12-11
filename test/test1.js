@@ -37,6 +37,7 @@ describe('Initial game state tests', function() {
 
 describe('Game logic', function() {
 
+    /*
     it("calculate sum of neighbors", function() {
 
         var grid = [];
@@ -51,4 +52,5 @@ describe('Game logic', function() {
         var sum = session1.sumNeighbors(5, 5);
         test.assert(sum === 8);
     })
+    */
 });

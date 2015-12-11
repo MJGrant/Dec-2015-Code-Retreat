@@ -18,10 +18,12 @@ module.exports = {
             grid.push(row);
         }
         return grid;
-    },
+    }
 
+    /*
     sumNeighbors: function(x, y) {
         var sum = 0;
         if()
     }
+    */
 };
